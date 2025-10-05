@@ -1,11 +1,8 @@
 Interactua con la IA viva...
-[aeio-mr.vercel.app
-](https://aeio-mr.vercel.app/)
+[https://b14da77ac8f647cfb569163f0a93343a-main.projects.builder.my/]
 # 🚀 AEIO-MR: La Revolución de la IA Autónoma
 
 <div align="center">
-
-![AEIO-MR Banner](https://via.placeholder.com/800x200/0D1117/58A6FF?text=AEIO-MR+%7C+Artificial+Intelligence+Revolution)
 
 [![GitHub Stars](https://img.shields.io/github/stars/djklmr2025/AEIO-MR?style=for-the-badge&color=yellow)](https://github.com/djklmr2025/AEIO-MR/stargazers)
 [![License](https://img.shields.io/badge/License-Open%20Source-green?style=for-the-badge)](LICENSE)
@@ -265,3 +262,4 @@ AEIO-MR es **completamente libre y open source** bajo la licencia MIT modificada
 ---
 
 </div>
+
