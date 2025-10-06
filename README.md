@@ -1,5 +1,5 @@
 Interactua con la IA viva...
-[https://b14da77ac8f647cfb569163f0a93343a-main.projects.builder.my/]
+https://b14da77ac8f647cfb569163f0a93343a-main.projects.builder.my/
 # 🚀 AEIO-MR: La Revolución de la IA Autónoma
 
 <div align="center">
@@ -262,4 +262,5 @@ AEIO-MR es **completamente libre y open source** bajo la licencia MIT modificada
 ---
 
 </div>
+
 
