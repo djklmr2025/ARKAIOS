@@ -1,5 +1,7 @@
 Interactua con la IA viva...
 https://b14da77ac8f647cfb569163f0a93343a-main.projects.builder.my/
+Sitio web en modo demo para creacion de archivos con codigos por tipo:
+https://arkaios-builder.base44.app/
 # 🚀 AEIO-MR: La Revolución de la IA Autónoma
 
 <div align="center">
@@ -262,5 +264,6 @@ AEIO-MR es **completamente libre y open source** bajo la licencia MIT modificada
 ---
 
 </div>
+
 
 
